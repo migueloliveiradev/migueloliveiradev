@@ -1,19 +1,13 @@
-<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=Miguel%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
+<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=180&section=header&text=Miguel%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
 
-<div align="center">
-   <p> ● 👋 Olá! Eu Sou o Miguel Oliveira.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
-   <p> ● 🚩 Atualmente estou Morando na Bahia.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
-   <p> ● ⚡ Gosto de Filmes, Séries, Jogos e Musicas.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
-   <p> ● 📜 Sou Full Stack a aproximadamente 2 anos.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
-   <p> ● ⚡ Me foco bastante na linguagem em C# e relacionadas.⠀⠀⠀</p>
-<div/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1500&multiline=true&repeat=false&width=800&height=250&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+Sou+o+Miguel+Oliveira.;%E2%9A%A1+Gosto+de+Filmes%2C+S%C3%A9ries%2C+Jogos+e+Musicas.;%F0%9F%93%9C+Sou+Full+Stack+a+aproximadamente+2+anos.;%F0%9F%9A%A9+Atualmente+estou+Morando+na+Bahia.;%F0%9F%92%BB+Me+foco+na+linguagem+C%23+e+seus+frameworks.)](https://git.io/typing-svg)
  
 <div>
   <a href="https://github.com/eimigueloliveir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimigueloliveir&layout=compact&langs_count=14&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimigueloliveir&layout=compact&langs_count=14&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true" />
   </a>
   <a href="https://wakatime.com/@eimigueloliveir">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eimigueloliveir&title_color=58A6FF&theme=dark&layout=compact&langs_count=14&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eimigueloliveir&title_color=36BCF7FF&theme=dark&layout=compact&langs_count=14&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true" />
   </a>
 <div/>
 
@@ -49,4 +43,4 @@
    <a href="https://discord.gg/FZpH3SZahH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/><a/>
+<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/><a/>
