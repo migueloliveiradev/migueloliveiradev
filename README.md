@@ -4,7 +4,7 @@
  
 <div>
   <a href="https://github.com/eimigueloliveir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimigueloliveir&layout=compact&langs_count=14&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimigueloliveir&layout=compact&langs_count=14&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time" />
   </a>
   <a href="https://wakatime.com/@eimigueloliveir">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eimigueloliveir&title_color=36BCF7FF&theme=dark&layout=compact&langs_count=14&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true" />
