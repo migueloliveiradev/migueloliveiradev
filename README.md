@@ -1,6 +1,6 @@
 <a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=180&section=header&text=Miguel%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1500&multiline=true&repeat=false&width=800&height=250&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+Sou+o+Miguel+Oliveira.;%E2%9A%A1+Gosto+de+Filmes%2C+S%C3%A9ries%2C+Jogos+e+Musicas.;%F0%9F%93%9C+Sou+Full+Stack+a+aproximadamente+2+anos.;%F0%9F%9A%A9+Atualmente+estou+Morando+na+Bahia.;%F0%9F%92%BB+Me+foco+na+linguagem+C%23+e+seus+frameworks.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1500&multiline=true&repeat=false&width=800&height=180&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+Sou+o+Miguel+Oliveira.;%E2%9A%A1+Gosto+de+Filmes%2C+S%C3%A9ries%2C+Jogos+e+Musicas.;%F0%9F%93%9C+Sou+Full+Stack+a+aproximadamente+2+anos.;%F0%9F%9A%A9+Atualmente+estou+Morando+na+Bahia.;%F0%9F%92%BB+Me+foco+na+linguagem+C%23+e+seus+frameworks.)](https://git.io/typing-svg)
  
 <div>
   <a href="https://github.com/eimigueloliveir">
