@@ -1,10 +1,10 @@
 <a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=180&section=header&text=Miguel%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1500&multiline=true&repeat=false&width=800&height=150&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+Sou+o+Miguel+Oliveira.;%F0%9F%93%9C+Sou+Full+Stack+a+aproximadamente+2+anos.;%F0%9F%9A%A9+Atualmente+estou+Morando+na+Bahia.;%F0%9F%92%BB+Me+foco+na+linguagem+C%23+e+seus+frameworks.)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=1200&multiline=true&repeat=false&width=800&height=165&lines=👋+Olá!+Eu+Sou+o+Miguel+Oliveira.;📜+Sou+Full+Stack+a+aproximadamente+2+anos.;🚩+Atualmente+estou+Morando+na+Bahia.;💻+Me+foco+na+linguagem+C%23+e+seus+frameworks.;%20✅+Utilizo+Vue.Js+como+Framework+Front-End.)](https://github.com/eimigueloliveir)
+
 <div>
   <a href="https://github.com/eimigueloliveir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimigueloliveir&layout=compact&langs_count=14&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eimigueloliveir&layout=compact&langs_count=14&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time" />
   </a>
   <a href="https://wakatime.com/@eimigueloliveir">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eimigueloliveir&title_color=36BCF7FF&theme=dark&layout=compact&langs_count=14&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true" />
