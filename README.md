@@ -1,45 +1,36 @@
-<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=180&section=header&text=Miguel%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
+# Miguel Oliveira | Desenvolvedor de Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=1200&multiline=true&repeat=false&width=800&height=165&lines=👋+Olá!+Eu+Sou+o+Miguel+Oliveira.;📜+Sou+Full+Stack+a+aproximadamente+2+anos.;🚩+Atualmente+estou+Morando+na+Bahia.;💻+Me+foco+na+linguagem+C%23+e+seus+frameworks.;%20✅+Utilizo+Vue.Js+como+Framework+Front-End.)](https://github.com/eimigueloliveir)
+## Sobre mim
+Sou um desenvolvedor Full Stack especializado em C#, ASP.NET, .NET, Entity Framework e testes unitários a 2 anos, com Front-End utilizando HTML, CSS, JavaScript, TypeScript, Vue.Js e React para desenvolvimento de interfaces interativas, não tenho quaisquer dificuldades para conhecer novas tecnologias. Sou apaixonado por resolver desafios complexos e estou sempre em busca de aprimorar minhas habilidades e conhecimentos
 
-<div style="display: flex;">
-  <a href="https://github.com/eimigueloliveir" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimigueloliveir&layout=compact&langs_count=12&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time" />
-  </a>
-  <a href="https://wakatime.com/@eimigueloliveir" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eimigueloliveir&title_color=36BCF7FF&theme=dark&layout=compact&langs_count=12&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true" />
-  </a>
-<div/>
+## Estatísticas 
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=migueloliveiradev&layout=compact&langs_count=12&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time)](https://github.com/migueloliveiradev)
+[![Estatísticas Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=migueloliveiradev&title_color=36BCF7FF&theme=dark&layout=compact&langs_count=12&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true)](https://wakatime.com/@migueloliveiradev)
 
-<hr>
+[![Profile views](https://komarev.com/ghpvc/?username=migueloliveiradev&style=for-the-badge)](#)
+[![Wakatime badge](https://wakatime.com/badge/user/4ea4d323-1f7a-46e1-a08e-2080b1b95450.svg?style=for-the-badge)](#)
 
-<div align="center">
- <a href="https://github.com/eimigueloliveir"><img src="https://komarev.com/ghpvc/?username=eimigueloliveir&style=for-the-badge" alt="eimigueloliveir" /><a/>
- <a href="https://wakatime.com/@eimigueloliveir"><img src="https://wakatime.com/badge/user/4ea4d323-1f7a-46e1-a08e-2080b1b95450.svg?style=for-the-badge" alt="eimigueloliveir" /> <a>
-<div/>
-<br/>
- <div align="center">
-   <a href= "https://github.com/eimigueloliveir">
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img height="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
- </div>
-<br/>
-  <div align="center"> 
-   <a href="https://www.linkedin.com/in/migueloliveiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/eimigueloliveir/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-   <a href="https://t.me/eimigueloliveir" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-   <a href="https://discord.com/users/209279906280898562" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+## Tecnologias
+<div display="flex">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="31">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="31">
+  <a/>
 </div>
 
-<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/><a/>
+## Links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueloliveiradev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eimigueloliveir/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eimigueloliveir)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/944942359169363989)
