@@ -4,8 +4,8 @@
 Sou um desenvolvedor Full Stack especializado em C#, ASP.NET, .NET, Entity Framework e testes unitários a 2 anos, com Front-End utilizando HTML, CSS, JavaScript, TypeScript, Vue.Js e React para desenvolvimento de interfaces interativas, não tenho quaisquer dificuldades para conhecer novas tecnologias. Sou apaixonado por resolver desafios complexos e estou sempre em busca de aprimorar minhas habilidades e conhecimentos
 
 ## Estatísticas 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=migueloliveiradev&layout=compact&langs_count=12&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time)](https://github.com/migueloliveiradev)
-[![Estatísticas Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=migueloliveiradev&title_color=36BCF7FF&theme=dark&layout=compact&langs_count=12&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true)](https://wakatime.com/@migueloliveiradev)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=migueloliveiradev&layout=compact&langs_count=14&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time)](https://github.com/migueloliveiradev)
+[![Estatísticas Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=migueloliveiradev&title_color=36BCF7FF&theme=dark&layout=compact&langs_count=10&text_color=c9d1d9&bg_color=FFFFFF00&range=all_time&custom_title=Estatisticas%20Wakatime&hide_border=true)](https://wakatime.com/@migueloliveiradev)
 
 [![Profile views](https://komarev.com/ghpvc/?username=migueloliveiradev&style=for-the-badge)](#)
 [![Wakatime badge](https://wakatime.com/badge/user/4ea4d323-1f7a-46e1-a08e-2080b1b95450.svg?style=for-the-badge)](#)
