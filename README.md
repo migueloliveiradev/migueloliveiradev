@@ -1,7 +1,7 @@
 # Miguel Oliveira | Desenvolvedor de Software
 
 ## Sobre mim
-Sou um desenvolvedor Full Stack especializado em C#, ASP.NET, .NET, Entity Framework e testes unitários a 2 anos, com Front-End utilizando HTML, CSS, JavaScript, TypeScript, Vue.Js e React para desenvolvimento de interfaces interativas, não tenho quaisquer dificuldades para conhecer novas tecnologias. Sou apaixonado por resolver desafios complexos e estou sempre em busca de aprimorar minhas habilidades e conhecimentos
+Sou um desenvolvedor Full Stack especializado em C#, ASP.NET, .NET, Entity Framework e testes unitários a 3 anos, com Front-End utilizando HTML, CSS, JavaScript, TypeScript, Vue.Js e React para desenvolvimento de interfaces interativas, não tenho quaisquer dificuldades para conhecer novas tecnologias. Sou apaixonado por resolver desafios complexos e estou sempre em busca de aprimorar minhas habilidades e conhecimentos
 
 ## Estatísticas 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=migueloliveiradev&layout=compact&langs_count=14&title_color=36BCF7FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=FFFFFF00&custom_title=Linguagens%20mais%20usadas&hide_border=true&range=all_time)](https://github.com/migueloliveiradev)
